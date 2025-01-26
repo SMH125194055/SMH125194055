@@ -1,82 +1,68 @@
-# 💻 Syed Muhammad Huzaifa - GitHub Profile
+# 💻 Syed Muhammad Huzaifa | GitHub Profile
 
-Hi there! 👋 I'm **Syed Muhammad Huzaifa**, a passionate developer and Computer Science graduate from FAST NUCES University. I enjoy creating impactful solutions through code, exploring innovative ideas, and constantly improving my technical skills.  
-
-🔍 I'm currently exploring **React Native** and **Deep Learning** to combine my passion for mobile app development with cutting-edge AI technologies.
+Hi there! 👋 I'm **Syed Muhammad Huzaifa**, a passionate software developer and Computer Science graduate from FAST NUCES University. I love building web and mobile apps, exploring AI technologies, and solving real-world problems through code.
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
-- 🎓 **Education**: Bachelor’s in Computer Science, FAST NUCES University  
-- 🛠️ **Developer Journey**: From building basic websites to mobile apps and AI-based solutions, I've grown into a versatile developer passionate about impactful projects.  
-- 🌱 **Learning**:  
-  - Deep Learning frameworks like **Transformers**  
-  - Mobile app development with **React Native**  
-  - Advanced problem-solving techniques through **HackerRank**  
-- 📌 **Goals**: To contribute to innovative projects in mobile development, AI, and research.
-
----
-
-## 🚀 Technical Skills
-
-- **Languages**: JavaScript, Python, TypeScript, HTML, CSS  
-- **Frameworks & Libraries**: React Native, Expo, React.js, Node.js  
-- **Tools**: Git, GitHub, Android Studio, VS Code, TailwindCSS  
-- **Data Science**: Pandas, scikit-learn, OpenCV  
-- **AI/ML**: Transformers, TensorFlow Lite  
-- **Other**: Progressive Web Apps (PWAs), OpenSSL, REST APIs
+- 🌱 **Currently Learning**: React Native, Transformers, Deep Learning  
+- 💼 **Goals**: Build impactful projects in mobile development and AI  
+- 🏆 **Achievements**:  
+  - Published [Diabetic Care App](https://github.com/SMH125194055/FirstAppReactNative)  
+  - Research on AI-driven diabetic foot ulcer classification  
+  - Solved algorithmic challenges on HackerRank  
 
 ---
 
-## 🔨 Projects
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SMH125194055&show_icons=true&theme=radical" alt="Syed Muhammad Haider's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
+
+## 🌟 Featured Projects
 
 ### 📱 [Diabetic Care Mobile App](https://github.com/SMH125194055/FirstAppReactNative)  
-A React Native app designed for diabetic patients to monitor their health, receive updates, and reduce the need for frequent hospital visits.  
-- Key Features:  
-  - **Navigation** for easy access to features  
-  - **Image picker** for uploading reports  
-  - **Custom gestures** for an intuitive user experience  
-
----
+A React Native app for diabetic patients to track progress, receive updates, and reduce hospital visits.
 
 ### 🖼️ Image Processing App  
-A React Native app that takes images from the camera or gallery, processes them using a `.tflite` model, and displays the processed image.  
-- Highlights:  
-  - Integrated **Hermes** for optimized performance  
-  - Used **expo-camera** for seamless image capturing  
-
----
-
-### 🌐 Website Optimization  
-Worked on several websites, improving **page speed** and user experience through modern best practices.  
-
----
+A mobile app using `.tflite` for processing images and displaying results.
 
 ### 🤖 AI-Based DFU Classification  
-Developed an AI model to classify diabetic foot ulcer images as healthy or abnormal.  
-- Tools: Transformers, OpenCV  
-- Outcome: Improved accuracy in assessing patient progress.
+Developed a model to classify diabetic foot ulcer images as healthy or abnormal using deep learning.
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🛠️ Skills & Tools
 
-- Solved challenges on **HackerRank** to improve algorithmic thinking.  
-- Authored a research paper on **AI for healthcare applications** (in progress).  
-- Transitioned from basic Express.js development to **Next.js** for scalable server-side rendering.
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Tools
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
-## 📫 Get in Touch
+## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/syed-muhammad-huzaifa-903927221/)  
-- 🌐 [GitHub](https://github.com/SMH125194055)  
-- 📧 Email: pc19405syedmuhammadhuzaifa@gmail.com  
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMH125194055)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-huzaifa-903927221/)
+- 📧 Email: **pc19405syedmuhammadhuzaifa@gmail.com**
 
 ---
 
-### 🚀 Let's Build Together!  
-I'm always looking for new opportunities to collaborate, innovate, and create impactful solutions. Feel free to explore my projects or reach out for a chat.  
+### 🔥 Fun Fact
+> Did you know? I started my app development journey with a simple React Native app and grew into an AI enthusiast exploring how technology can impact healthcare!
 
-🌟 **Thank you for visiting my profile!** 🌟
+---
+
+🌟 **Thank you for visiting my profile! Let's collaborate and innovate together!** 🌟
