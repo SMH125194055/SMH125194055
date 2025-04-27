@@ -1,6 +1,6 @@
 # 💻 Syed Muhammad Huzaifa | GitHub Profile  
 
-Hi there! 👋 I'm **Syed Muhammad Huzaifa**, a passionate **AI and App Developer** with a strong background in **computer vision, deep learning, and mobile development**. A **FAST NUCES Computer Science graduate**, I specialize in building AI-driven applications that solve real-world problems.  
+Hi there! 👋 I'm **Syed Muhammad Huzaifa**, a passionate **AI,ML and DS Developer** with a strong background in **computer vision, deep learning, and mobile development**. A **FAST NUCES Computer Science graduate**, I specialize in building AI-driven applications that solve real-world problems.  
 
 ---
 
