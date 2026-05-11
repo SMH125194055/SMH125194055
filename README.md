@@ -38,8 +38,6 @@ Ex-AI Applied Research Engineer @ QLU.ai — built production agentic AI systems
 **Data & Infra:** PostgreSQL · MySQL · Supabase · MongoDB · Docker · AWS · CI/CD · Git
 
 ---
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -51,9 +49,9 @@ Ex-AI Applied Research Engineer @ QLU.ai — built production agentic AI systems
   <img height="180" src="https://streak-stats.demolab.com?user=SMH125194055&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </a>
 
-<a href="https://github.com/SMH125194055">
+<!-- <a href="https://github.com/SMH125194055">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css,php,scss&exclude_repo=Portfolio,Restaurant-Mangement-Website" alt="Top Languages" />
-</a>
+</a> -->
 <a href="https://github.com/SMH125194055">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMH125194055&theme=tokyonight" alt="Profile Details" />
 </a>
