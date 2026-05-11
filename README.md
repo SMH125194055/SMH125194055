@@ -39,6 +39,7 @@ Ex-AI Applied Research Engineer @ QLU.ai — built production agentic AI systems
 
 ---
 
+---
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -58,15 +59,54 @@ Ex-AI Applied Research Engineer @ QLU.ai — built production agentic AI systems
 </a>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SMH125194055&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://github.com/SMH125194055">
+    <img src="https://github-profile-trophy.vercel.app/?username=SMH125194055&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
 </div>
 
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+
+<!-- Contribution graph -->
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMH125194055&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Activity Graph" width="98%" />
+</a>
+
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=SMH125194055&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/SMH125194055?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/SMH125194055?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=TOTAL+STARS" alt="Total Stars" />
+
+</div>
+
+---
+
+## 📊 Languages & Tools Breakdown
+
+<div align="center">
+
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SMH125194055&theme=tokyonight" alt="Repos per Language" height="180" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SMH125194055&theme=tokyonight" alt="Most Commit Language" height="180" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SMH125194055&theme=tokyonight&utcOffset=5" alt="Productive Time" height="180" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SMH125194055&theme=tokyonight" alt="Stats" height="180" />
+</a>
+
+</div>
 ---
 
 ## 📌 Featured Projects
