@@ -1,89 +1,86 @@
-# 💻 Syed Muhammad Huzaifa | GitHub Profile  
+# 👋 Syed Muhammad Huzaifa
 
-Hi there! 👋 I'm **Syed Muhammad Huzaifa**, a passionate **AI,ML and DS Developer** with a strong background in **computer vision, deep learning, and mobile development**. A **FAST NUCES Computer Science graduate**, I specialize in building AI-driven applications that solve real-world problems.  
+### AI Engineer & Full-Stack Developer | RAG, LLMs, Computer Vision, Fine-tuning
 
----
+**AI Applied Research Engineer @ QLU.ai** — building production-grade agentic AI systems, semantic search, and real-time voice cloning. FAST NUCES Computer Science graduate (2025). Published researcher in audio similarity for voice clone detection.
 
-## 🚀 About Me  
+🔬 Currently focused on: **RAG · Agentic AI · QLoRA Fine-tuning · Multi-Agent Systems · Real-time Inference**
 
-- 🌱 **Currently Learning**: Transformers, Advanced Deep Learning, Mobile AI Integration  
-- 💼 **Goals**: Innovate in **AI & Mobile Development** to create solutions that impact healthcare and business  
-- 🏆 **Achievements**:  
-  - Published [Diabetic Care App](https://github.com/SMH125194055/FirstAppReactNative)  
-  - Developed AI models for **image detection & classification**  
-  - 🥉 **3rd place** in Procom Computer Vision Competition 
-  - 🥉 **3rd place** in PaysysLab AI Competition  
+📍 Karachi, Pakistan · 📧 pc19405syedmuhammadhuzaifa@gmail.com · 🌐 [Portfolio](https://portfolio-syed-muhammad-huzaifas-projects-ad02ed9c.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/syed-muhammad-huzaifa-903927221/)
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 What I Build
 
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=SMH125194055&show_icons=true&theme=radical" alt="GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=radical" alt="Top Languages" />  
-</div>  
-
----
-
-## 🌟 Featured Projects  
-
-### 🖼️ [Image Detection & Segmentation App](https://github.com/SMH125194055/ImageDetectionAndSegnmetationApp)  
-A mobile application utilizing **TensorFlow Lite** for real-time **image segmentation and object detection**.  
-
-### 🏷️ [Product Title Classification](https://github.com/SMH125194055/Product-Tittle-Classification)  
-An **AI-powered NLP model** that classifies product titles, improving **e-commerce search and recommendation systems**.  
-
-### 🏆 [Computer Vision (CV) PaysysLab Competition](https://github.com/SMH125194055/CV-Paysys-Competition)  
-Ranked **3rd** in **PaysysLab's AI Competition**, implementing **cutting-edge deep learning techniques** for computer vision tasks.Challenge 𝗙𝗶𝗻𝗴𝗲𝗿𝘁𝗶𝗽 𝗗𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 & 𝗙𝗶𝗻𝗴𝗲𝗿𝗽𝗿𝗶𝗻𝘁 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻. We were given a dataset of right and left-hand palm images and tasked with training 𝗼𝗯𝗷𝗲𝗰𝘁 𝗱𝗲𝘁𝗲𝗰𝘁𝗶𝗼𝗻 𝗺𝗼𝗱𝗲𝗹𝘀, 𝗶𝗱𝗲𝗻𝘁𝗶𝗳𝘆 𝗳𝗶𝗻𝗴𝗲𝗿𝘁𝗶𝗽𝘀, 𝗰𝗿𝗼𝗽 𝘁𝗵𝗲𝗺, 𝗮𝗻𝗱 𝗲𝘅𝘁𝗿𝗮𝗰𝘁 𝗯𝗶𝗼𝗺𝗲𝘁𝗿𝗶𝗰 𝗳𝗶𝗻𝗴𝗲𝗿𝗽𝗿𝗶𝗻𝘁𝘀. 
-
-### 🏆 [Computer Vision (CV) Procom Competition](https://github.com/SMH125194055/CV-Procom-Competition)  
-Developed an advanced **image classification model** that secured **3rd place** in **Procom Computer Vision Competition**.Challenge: Improve pain management after surgery by identifying anatomical structures in sonography images. Goal: Develop a segmentation model that optimizes treatment and recovery while minimizing heavy medication use.  
-
-### 🍽️ [Restaurant Management Website](https://github.com/SMH125194055/Restaurant-Mangement-Website)  
-A **full-stack restaurant management system** built with **React, Node.js, and MongoDB** for efficient order and inventory handling.  
+- **Agentic AI Systems** — Perplexity-style search with subquery decomposition, multi-session caching, and SSE streaming (Gemini 2.5 Flash + Serper)
+- **Voice AI** — Real-time voice cloning with Chatterbox + Silero VAD + Whisper, ~5s response time, active interruption handling
+- **Fine-tuned Retrieval** — QLoRA-based document ranking models for high-precision semantic search
+- **Computer Vision** — Medical imaging (DFU staging), object detection, video anomaly detection
+- **Full-Stack AI Apps** — React Native + FastAPI + Supabase pipelines for production ML deployment
 
 ---
 
-## 🛠️ Skills & Tools  
+## 🏆 Recognition
 
-### **Programming Languages**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-
-### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-
-### **Other Tools**  
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
+- 📄 **Published Researcher** — "Multi-stream Perceptual Audio Similarity for Voice Clone Detection" (AIRC) — 23.5% improvement in Pearson correlation over baseline
+- 🥉 **3rd Place** — Procom Computer Vision Competition (medical image segmentation)
+- 🥉 **3rd Place** — PaysysLab AI Competition (biometric fingerprint extraction)
+- 🎓 **Dean's List** — FAST NUCES
 
 ---
 
-## 🏅 Certifications & Achievements  
+## 🛠️ Tech Stack
 
-- 🥉 **3rd Place** in Procom Computer Vision Competition  
-- 🥉 **3rd Place** in PaysysLab AI Competition  
-- 🎓 **Bachelor's in Computer Science** from FAST NUCES University    
+**AI/ML:** PyTorch · TensorFlow · Hugging Face · LangChain · LangGraph · OpenAI · Gemini · Whisper · QLoRA · RAG · Transformers
 
----
+**Backend:** Python · FastAPI · Node.js · PHP · REST APIs · WebSockets · SSE
 
-## 🌐 Connect with Me  
+**Frontend & Mobile:** React · React Native · Expo · TypeScript · Tailwind CSS
 
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMH125194055)  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-huzaifa-903927221/)  
-- 📧 **Email**: pc19405syedmuhammadhuzaifa@gmail.com  
+**Data & Infra:** PostgreSQL · MySQL · Supabase · MongoDB · Docker · AWS · CI/CD · Git
 
 ---
 
-### 🔥 Fun Fact  
-> Did you know? My first **React Native app** sparked my passion for AI, leading me to explore **computer vision and deep learning** to revolutionize healthcare and business solutions!  
+## 📌 Featured Projects
+
+### 🎯 [Video Anomaly Detection — CNN-LSTM on UCF-Crime](https://github.com/SMH125194055/UCF-Crime-Detection)
+Hybrid CNN-LSTM with attention mechanism detecting 14 anomaly classes in surveillance video. Triplet loss for embeddings, **74.8% accuracy**, TPU-accelerated training (40% faster).
+`PyTorch` `Computer Vision` `Video Processing` `Attention Mechanism`
+
+### 🩺 AI-Based Diabetic Foot Ulcer Management (FYP)
+React Native mobile app with deep learning DFU staging, heatmap visualization, and similar-case retrieval. Addresses the high amputation rate in Pakistan through early detection.
+`React Native` `FastAPI` `Medical Imaging` `Supabase`
+
+### 🔍 [Product Title Classification](https://github.com/SMH125194055/Product-Tittle-Classification)
+NLP multi-class classifier for e-commerce product titles — improves search relevance and recommendations.
+`NLP` `Neural Networks` `Python`
+
+### 🖐️ [Fingertip Detection & Fingerprint Extraction (PaysysLab — 3rd Place)](https://github.com/SMH125194055/FingerPrint-CV-Paysys-Competition)
+YOLO v11 pipeline for fingertip detection and biometric fingerprint extraction from palm images.
+`YOLO v11` `Computer Vision` `Biometrics`
+
+### 🏥 [Sonography Image Segmentation (Procom — 3rd Place)](https://github.com/SMH125194055/Songraphy-CV-Procom-Competition)
+Deep learning segmentation model for post-surgery pain management using sonography images.
+`Image Segmentation` `Medical Imaging` `Deep Learning`
+
+### 🌐 [PASCAL VOC Object Detection](https://github.com/SMH125194055/PASCAL-VOC-Object-Detection)
+Multi-task learning system with MobileNetV2 backbone, focal loss for class imbalance — **70% accuracy, 0.75 mIoU**.
+`Transfer Learning` `Multi-task Learning` `TensorFlow`
 
 ---
 
-🌟 **Thank you for visiting my profile! Let's collaborate and innovate together!** 🚀
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMH125194055&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 💼 Open To
+
+✅ ** AI/ML Engineer roles** (RAG, agents, fine-tuning, computer vision)
+✅ **Freelance AI consulting** — RAG chatbots, LLM integrations, custom CV models
+✅ **Full-stack AI product development** — end-to-end React Native + FastAPI builds
+✅ **Research collaborations** — applied ML, audio/vision systems
+
+📩 Reach out: **pc19405syedmuhammadhuzaifa@gmail.com**
