@@ -42,9 +42,9 @@ Ex-AI Applied Research Engineer @ QLU.ai — built production agentic AI systems
 
 <div align="center">
 
-<a href="https://github.com/SMH125194055">
+<!-- <a href="https://github.com/SMH125194055">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SMH125194055&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-</a>
+</a> -->
 <a href="https://github.com/SMH125194055">
   <img height="180" src="https://streak-stats.demolab.com?user=SMH125194055&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </a>
