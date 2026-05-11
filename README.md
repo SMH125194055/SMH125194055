@@ -71,9 +71,74 @@ Multi-task learning system with MobileNetV2 backbone, focal loss for class imbal
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SMH125194055&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
 
+<!-- Top Row: Main Stats + Streak -->
+<a href="https://github.com/SMH125194055">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SMH125194055&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img height="180" src="https://streak-stats.demolab.com?user=SMH125194055&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</a>
+
+<!-- Second Row: Top Languages + Profile Details -->
+<a href="https://github.com/SMH125194055">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=10&exclude_repo=Portfolio" alt="Top Languages" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMH125194055&theme=tokyonight" alt="Profile Details" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/SMH125194055">
+    <img src="https://github-profile-trophy.vercel.app/?username=SMH125194055&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+## 📈 Activity & Contributions
+
+<div align="center">
+
+<!-- Contribution graph -->
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SMH125194055&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Activity Graph" width="98%" />
+</a>
+
+<!-- Profile views counter -->
+<img src="https://komarev.com/ghpvc/?username=SMH125194055&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/SMH125194055?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=FOLLOWERS" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/SMH125194055?style=for-the-badge&color=58A6FF&labelColor=0D1117&label=TOTAL+STARS" alt="Total Stars" />
+
+</div>
+
+---
+
+## 📊 Languages & Tools Breakdown
+
+<div align="center">
+
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SMH125194055&theme=tokyonight" alt="Repos per Language" height="180" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SMH125194055&theme=tokyonight" alt="Most Commit Language" height="180" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SMH125194055&theme=tokyonight&utcOffset=5" alt="Productive Time" height="180" />
+</a>
+<a href="https://github.com/SMH125194055">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SMH125194055&theme=tokyonight" alt="Stats" height="180" />
+</a>
+
+</div>
 ---
 
 ## 💼 Open To
