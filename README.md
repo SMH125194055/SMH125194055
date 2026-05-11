@@ -2,7 +2,7 @@
 
 ### AI Engineer & Full-Stack Developer | RAG, LLMs, Computer Vision, Fine-tuning
 
-**AI Applied Research Engineer @ QLU.ai** — building production-grade agentic AI systems, semantic search, and real-time voice cloning. FAST NUCES Computer Science graduate (2025). Published researcher in audio similarity for voice clone detection.
+**AI Applied Research Engineer @ Ex-QLU.ai** — building production-grade agentic AI systems, semantic search, and real-time voice cloning. FAST NUCES Computer Science graduate (2025). Published researcher in audio similarity for voice clone detection.
 
 🔬 Currently focused on: **RAG · Agentic AI · QLoRA Fine-tuning · Multi-Agent Systems · Real-time Inference**
 
@@ -68,12 +68,10 @@ Multi-task learning system with MobileNetV2 backbone, focal loss for class imbal
 `Transfer Learning` `Multi-task Learning` `TensorFlow`
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Top Row: Main Stats + Streak -->
 <a href="https://github.com/SMH125194055">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=SMH125194055&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
 </a>
@@ -81,15 +79,14 @@ Multi-task learning system with MobileNetV2 backbone, focal loss for class imbal
   <img height="180" src="https://streak-stats.demolab.com?user=SMH125194055&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </a>
 
-<!-- Second Row: Top Languages + Profile Details -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css,php,scss&exclude_repo=Portfolio,Restaurant-Mangement-Website)
-
+<a href="https://github.com/SMH125194055">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SMH125194055&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&hide=html,css,php,scss&exclude_repo=Portfolio,Restaurant-Mangement-Website" alt="Top Languages" />
+</a>
 <a href="https://github.com/SMH125194055">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SMH125194055&theme=tokyonight" alt="Profile Details" />
 </a>
 
 </div>
-
 ---
 
 ## 🏆 GitHub Trophies
